@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Oluwaseyieniola
-- 👀 I’m interested in Web development with AI
-- 🌱 I’m currently learning Ethical hacking
-- 💞️ I’m looking to collaborate on Web development and Moblie apps
+- 👀 I’m  interested in Artificial intelligence
+- 🌱 I’m currently working on mobile development
+- 💞️ I’m looking to collaborate on Mobile development
 - 📫 How to reach me -ianolenblogs@gmail.com
 
 <!---
