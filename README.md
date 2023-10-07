@@ -1,5 +1,5 @@
 - # 💫 About Me:
-🔭 I’m currently working on the possibilities of sensor fusion, computer vision with flutter<br>👯 I’m looking to collaborate on amazing Flutter and Dart projects<br>🤝 I’m looking for help with IOS/ANDROID applications<br>🌱 I’m currently learning about Open AI<br>💬 Ask me about anything literally<br>⚡ Fun fact I don't stop learning.
+🔭 I’m currently working on the possibilities of sensor fusion, computer vision with flutter<br>👯 I’m looking to collaborate on amazing Flutter and Dart projects<br>🤝 I create IOS/ANDROID Mobile applications<br>🌱 I’m currently learning about Open AI<br>💬 Ask me about anything literally<br>⚡ Fun fact I don't stop learning.
 
 
 ## 🌐 Socials:
