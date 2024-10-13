@@ -1,5 +1,5 @@
 - # 💫 About Me:
-🔭 I’m currently working on the possibilities of sensor fusion, computer vision with flutter<br>👯 I’m looking to collaborate on amazing Flutter and Dart projects<br>🤝 I create IOS/ANDROID Mobile applications<br>🌱 I’m currently learning about Open AI<br>💬 Ask me about anything literally<br>⚡ Fun fact I don't stop learning.
+🔭 I’m currently working on the possibilities of sensor fusion, computer vision with mobile and web applications 👯 I’m looking to collaborate on amazing Products with amazing tools and technologies and Dart projects<br>🤝<br>🌱 I’m currently learning about Human Biology <br>💬 Ask me about anything literally<br>⚡ Fun fact I don't stop learning.
 
 
 ## 🌐 Socials:
@@ -8,6 +8,10 @@ oluwaseyi-ogunjinmi-405055216
 ) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/seyi_scripts) 
 
 # 💻 Tech Stack:
+![Golang]
+![PHP] 
+![Kubernetes]
+![Docker]
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)  ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 
